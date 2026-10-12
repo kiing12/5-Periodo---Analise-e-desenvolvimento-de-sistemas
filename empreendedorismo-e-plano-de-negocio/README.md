@@ -9,8 +9,7 @@ O objetivo é facilitar a consulta aos trabalhos e acompanhar os conteúdos estu
 
 **Tipo de arquivo:** Documento Word (.docx)
 
-**Disciplina:** Gestão da Informação
+**Disciplina:** Empreendedorismo e plano de negocio 
 
-**Descrição:** Atividade de identificação e organização dos meus conhecimentos pessoais e acadêmicos.
-
+**Descrição:** Atividade de destinada a customização e preenchimento de dados.
 
