@@ -13,4 +13,4 @@ O objetivo é facilitar a consulta aos trabalhos e acompanhar os conteúdos estu
 
 **Descrição:** Atividade de identificação e organização dos meus conhecimentos pessoais e acadêmicos.
 
-[Acessar atividade](Atividade%20-%20Mapa%20Conhecimentos%20Pessoal.docx)
+[Acessar atividade](Atividade%20-%20Mapa%20Conhecimentos%20Pessoal%20.docx)
